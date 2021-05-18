@@ -44,14 +44,14 @@ Distributed queue have two limits: one for prod queue, second form cons queues
 
 <hr>
 
-###One to one problem:
+### One to one problem:
 
 One producer - one consumer:<br>
 https://github.com/GeorgiyO/elastic-producer-consumer-queue/blob/master/src/nekogochan/pc/queue/ProducerConsumerResolver.java
 
 <hr>
 
-###Many to many problem:
+### Many to many problem:
 
 many consumers, many producers, one dataset:
 
