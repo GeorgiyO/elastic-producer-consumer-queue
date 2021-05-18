@@ -1,12 +1,12 @@
-##Programming challenges v4.0
+## Programming challenges v4.0
 
-#<span>#2: Elastic consumer-producer queue</span>
+# <span>#2: Elastic consumer-producer queue</span>
 
-###Problem description: https://en.wikipedia.org/wiki/Producer%E2%80%93consumer_problem
+### Problem description: https://en.wikipedia.org/wiki/Producer%E2%80%93consumer_problem
 
 <hr>
 
-###Solution:
+### Solution:
 
 Solving one-to-one problem is easy:
 * use ConcurrentCollection (i choose queue)
